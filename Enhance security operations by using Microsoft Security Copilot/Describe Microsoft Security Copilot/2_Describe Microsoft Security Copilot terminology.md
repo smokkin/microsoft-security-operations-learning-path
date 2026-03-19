@@ -38,9 +38,9 @@ For example, the plugin to Microsoft Defender XDR includes a collection of indiv
 
 A plugin for Microsoft Sentinel may have similar capabilities but runs only within the scope of Microsoft Sentinel.
 
-<img width="526" height="452" alt="image" src="https://github.com/user-attachments/assets/88d68799-441d-47ef-bd38-029f560b4ec5" />
-
 Copilot currently supports plug-ins for Microsoft services and non-Microsoft services, including websites and custom plug-ins that can be enabled.
+
+<img width="526" height="452" alt="image" src="https://github.com/user-attachments/assets/88d68799-441d-47ef-bd38-029f560b4ec5" />
 
 <img width="525" height="452" alt="image" src="https://github.com/user-attachments/assets/765ba4db-b148-4890-9a09-0df76b683513" />
 
