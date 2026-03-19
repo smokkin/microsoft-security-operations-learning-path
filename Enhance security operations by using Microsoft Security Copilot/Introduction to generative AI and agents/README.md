@@ -6,7 +6,7 @@ Fundamentally, LLMs are trained to generate completions based on prompts. Think 
 
 For example, consider the following sentence:
 
- &gt; I heard a dog bark loudly at a cat
+&gt; I heard a dog bark loudly at a cat
 
 Now, suppose you only heard the first few words: "I heard a dog ...". You know that some of these words are more helpful clues as to what the next word might be than others. You know that "heard" and "dog" are strong indicators of what comes next, and that helps you narrow down the probabilities. You know that there's a good chance the sentence will continue as "I heard a dog bark".
 
