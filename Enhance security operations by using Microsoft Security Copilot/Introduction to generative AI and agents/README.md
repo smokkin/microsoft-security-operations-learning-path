@@ -59,6 +59,7 @@ To accomplish this task, we use a **transformer model**. This kind of model cons
 1. **Encoder block** - Creates the embeddings by applying a technique called **attention**. The attention layer examines each token in turn, and determines how it's influenced by the tokens around it. To make the encoding process more efficient, multi-head attention is used to evaluate multiple elements of the token in parallel and assign weights that can be used to calculate the new vector element values. The results of the attention layer are fed into a fully connected neural network to find the best vector representation of the embedding.
 
 2. **Decoder layer** - Uses the embeddings calculated by the encoder to determine the next most probable token in a sequence started by a prompt. The decoder also uses attention and a feed-forward neural network to make its predictions.
+
 <img width="725" height="452" alt="image" src="https://github.com/user-attachments/assets/9dc97cd2-86f9-4b94-a15b-276f4fe76207" />
 
 
@@ -113,6 +114,7 @@ The result of the encoding process is a set of embeddings; vectors that include 
 | skateboard | 129 | [-3, -2, 2 ] |
 
 We can think of the elements of the embeddings as dimensions in a multi-dimensional vector-space. In our simple example, our embeddings only have three elements, so we can visualize them as vectors in three-dimensional space.
+
 <img width="525" height="452" alt="image" src="https://github.com/user-attachments/assets/f8802062-af25-4cd9-8e77-069701f49f8a" />
 
 Because the dimensions are calculated based on how the tokens relate linguistically to one another, tokens that are used in similar contexts (and therefore have similar meanings) result in vectors with similar directions. For example, the embeddings for "dog" and "puppy" point in more or less the same direction, which isn't too different from the embedding for "cat"; but very different from the embedding for "skateboard" or "car". We can measure how close tokens are to one another semantically by calculating the cosine similarity of their vectors.
