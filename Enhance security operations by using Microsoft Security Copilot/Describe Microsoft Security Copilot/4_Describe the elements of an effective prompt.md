@@ -58,7 +58,7 @@ You have the flexibility to adapt these guidelines to your specific needs.
 
 - **Vague threat intelligence requests** - Analysts submit generic actor names without specifying what information they need
   - *Solution:* Include a specific goal in the prompt requesting exactly what security information is needed (e.g., "list of known indicators of compromise and tools, tactics, and procedures (TTPs)")
-  - *Reference:* [Microsoft Security Copilot Prompting Best Practices](https://learn.microsoft.com/en-us/copilot-security/prompting-in-copilot)
+  - *Reference:* [Microsoft Security Copilot Prompting Best Practices](https://learn.microsoft.com/en-us/copilot/security/prompting-tips)
 
 ### Context Provision Use Cases
 
