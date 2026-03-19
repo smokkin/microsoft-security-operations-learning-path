@@ -19,14 +19,14 @@ To keep a conversation consistent and relevant, generative AI apps often keep tr
 
 For example, suppose the model responds to the system and user prompts described previously with the following completion:
 
-&gt; Key considerations for adopting Generative AI include:
-&gt;
-&gt; - Establish Clear Governance and Responsible AI Policies
-&gt; - Prioritize High-Value Use Cases Across Corporate Functions
-&gt; - Mitigate Risks Around Privacy, Security, and Compliance
-&gt; - Foster Organizational Readiness and Cultural Adaptation
-&gt; - Measure Impact and Build Accountability
-&gt; - Stay Ahead of Strategic and Competitive Shifts
+> Key considerations for adopting Generative AI include:
+> 
+> 1. Establish Clear Governance and Responsible AI Policies
+> 2. Prioritize High-Value Use Cases Across Corporate Functions
+> 3. Mitigate Risks Around Privacy, Security, and Compliance
+> 4. Foster Organizational Readiness and Cultural Adaptation
+> 5. Measure Impact and Build Accountability
+> 6. Stay Ahead of Strategic and Competitive Shifts
 
 You could respond with a follow-up question, such as "What are common privacy-related risks?". The prompt would include the new question, but also the previous prompts and responses; providing context to the model so that it understands the question in relation to Generative AI adoption.
 
