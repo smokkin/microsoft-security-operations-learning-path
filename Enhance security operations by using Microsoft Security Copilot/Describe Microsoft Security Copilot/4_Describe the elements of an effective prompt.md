@@ -13,7 +13,7 @@ Effective prompts give Copilot adequate and useful parameters to generate a valu
 - **Expectations** - format or target audience you want the response tailored to
 - **Source** - known information, data sources, or plugins Copilot should use
 
-<img width="600" height="510" alt="image" src="https://github.com/user-attachments/assets/16bbef3c-70ce-4966-822a-e2e42e5f9e5d" />
+<img width="625" height="520" alt="image" src="https://github.com/user-attachments/assets/16bbef3c-70ce-4966-822a-e2e42e5f9e5d" />
 
 Every good prompt should have a goal. Whether it comes in the form of instructions or questions, it should indicate what you want out of your current session.
 
