@@ -31,10 +31,10 @@ There are two options for provisioning capacity:
 > Note: Regardless of the method you choose, you'll need to purchase a minimum of 1 and a maximum of 100 SCUs.
 
 > Provision through Copilot
-<img width="630" height="525" alt="image" src="https://github.com/user-attachments/assets/fd65a671-bf4a-4fe8-aba0-da255544d730" />
+<img width="630" height="560" alt="image" src="https://github.com/user-attachments/assets/fd65a671-bf4a-4fe8-aba0-da255544d730" />
 
 > Provision through Azure portal
-<img width="630" height="525" alt="image" src="https://github.com/user-attachments/assets/3ab8fa9c-dec3-4456-a78f-8a78bb19e0f6" />
+<img width="630" height="560" alt="image" src="https://github.com/user-attachments/assets/3ab8fa9c-dec3-4456-a78f-8a78bb19e0f6" />
 
 Regardless of the approach you choose to provision capacity, the process takes the information and establishes a resource group for the Microsoft Security Copilot service, within your Azure subscription. The SCUs are an Azure resource within that resource group. Deployment of the Azure resource can take a few minutes.
 
