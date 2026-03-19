@@ -44,7 +44,7 @@ And so on.
 
 As you add more training data, more tokens will be added to the vocabulary and assigned identifiers; so you might end up with tokens for words like puppy, skateboard, car, and others.
 
-&gt; **Note:** In this simple example, we've tokenized the example text based on words. In reality there would also be sub-words, punctuation, and other tokens.
+> **Note:** In this simple example, we've tokenized the example text based on words. In reality there would also be sub-words, punctuation, and other tokens.
 
 ---
 
@@ -62,7 +62,7 @@ To accomplish this task, we use a **transformer model**. This kind of model cons
 <img width="725" height="452" alt="image" src="https://github.com/user-attachments/assets/9dc97cd2-86f9-4b94-a15b-276f4fe76207" />
 
 
-&gt; **Note:** We've greatly simplified the transformer architecture and process in the description and diagram. Don't worry too much about the specific details of how attention works - the key point is that it helps capture linguistic and semantic characteristics of each token based on the contexts in which it's used. If you want a deeper dive into the transformer architecture and how it uses attention, you can read the original [Attention is all you need](https://arxiv.org/abs/1706.03762) paper.
+> **Note:** We've greatly simplified the transformer architecture and process in the description and diagram. Don't worry too much about the specific details of how attention works - the key point is that it helps capture linguistic and semantic characteristics of each token based on the contexts in which it's used. If you want a deeper dive into the transformer architecture and how it uses attention, you can read the original [Attention is all you need](https://arxiv.org/abs/1706.03762) paper.
 
 ### Initial Vectors and Positional Encoding
 
@@ -86,7 +86,7 @@ For example, our tokens might start off looking like this:
 | car | 128 | 56 | [5, -5, 1 ] |
 | skateboard | 129 | 67 | [4, 7, 14] |
 
-&gt; **Note:** We've kept things simple by using vectors with only three elements (which will help us visualize them in three-dimensions later). In reality, the vectors have thousands of elements.
+> **Note:** We've kept things simple by using vectors with only three elements (which will help us visualize them in three-dimensions later). In reality, the vectors have thousands of elements.
 
 ### Attention and Embeddings
 
