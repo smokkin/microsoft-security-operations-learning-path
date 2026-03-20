@@ -140,7 +140,7 @@ Settings, which include configurable preferences, data and privacy statements, a
 - **About** - The About page provides information of the app version for Copilot.
 
 > Preferences
-<img width="890" height="852" alt="image" src="https://github.com/user-attachments/assets/b3d2d31f-46b0-48b9-b5bc-ea84cc0c1318" />
+<img width="690" height="852" alt="image" src="https://github.com/user-attachments/assets/b3d2d31f-46b0-48b9-b5bc-ea84cc0c1318" />
 
 > Data and privacy
 <img width="511" height="259" alt="image" src="https://github.com/user-attachments/assets/c0e78fde-1131-4e64-a257-30f853df1f83" />
