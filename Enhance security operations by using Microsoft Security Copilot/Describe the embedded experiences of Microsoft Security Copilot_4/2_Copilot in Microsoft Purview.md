@@ -2,7 +2,7 @@
 
 Microsoft Security Copilot is now accessible from within Microsoft Purview data security solutions, as part of the embedded experience. With Copilot in Microsoft Purview, data security and compliance admins can use the power of AI to assess risk exposure more quickly than is otherwise possible, directly from within Microsoft Purview solutions.
 
-&gt; **Note:** The list of Copilot capabilities embedded in Microsoft Purview is continually growing. This unit provides just a sampling of those capabilities. For more information, see documentation on Microsoft Purview.
+> Note: The list of Copilot capabilities embedded in Microsoft Purview is continually growing. This unit provides just a sampling of those capabilities. For more information, see documentation on Microsoft Purview.
 
 Some of the scenarios supported as part of the embedded experience include:
 
